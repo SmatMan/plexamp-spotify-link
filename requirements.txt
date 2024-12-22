@@ -1,0 +1,9 @@
+async-timeout==5.0.1
+certifi==2024.12.14
+charset-normalizer==3.4.0
+idna==3.10
+plexapi==4.16.0
+redis==5.2.1
+requests==2.32.3
+spotipy==2.24.0
+urllib3==2.2.3
