@@ -70,6 +70,7 @@ if __name__ == "__main__":
             continue
         
         query = quote(f'track:{track["title"]} artist:{track["artist"]} album:{track["album"]}')
+        query = f'track:{track["title"]} artist:{track["artist"]} album:{track["album"]}'
 
         result = sp.search(q=query, limit=1, type="track", market="GB")
         
