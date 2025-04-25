@@ -1,2 +1,2 @@
 # plexamp-spotify-link
-For stats.fm/airbuds tracking with plexamp listening
+Tool to sync playback one-way from Plexamp to Spotify. Very niche.
